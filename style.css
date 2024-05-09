@@ -1,0 +1,29 @@
+
+.ss{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+    background-color: rgb(198, 230, 150);
+}
+.L{
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.A{
+    border-radius: 10px 0 0 10px;
+}
+/* .grid-item{
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid;
+}
+.s{
+    border: 1px solid gray;
+    height: 100px;
+    display: grid;
+    text-align: center;
+    align-content: center;
+} */
